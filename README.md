@@ -27,4 +27,4 @@ Project is: _complete_.
 
 ## Contact
 
-Created by @Mykhaylo-M.
+Created by Mykhailo.
